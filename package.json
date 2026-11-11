@@ -16,7 +16,7 @@
     "@vuepress/plugin-pwa": "^1.4.1",
     "file-saver": "^2.0.2",
     "flexsearch": "nextapps-de/flexsearch",
-    "js-cookie": "^2.2.1",
+    "js-cookie": "^3.0.8",
     "markdown-it-div": "^1.1.0",
     "markdown-it-multimd-table": "^4.0.1",
     "material-design-icons-iconfont": "^5.0.1",
